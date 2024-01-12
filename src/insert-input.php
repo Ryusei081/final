@@ -5,6 +5,7 @@
 <form action="insert-output.php" method="post">
    <p> タイトル：<input type="text" name="book_name"></p>
    <p> 著者：<input type="text" name="author"></p>
+   <p>カテゴリID：<input type="text" name="category_id"></p>
    <input type="submit" value="登録">
 </form>
 <?php require 'footer.php'; ?>

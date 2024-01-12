@@ -11,7 +11,7 @@
     <form action="select.php" method="post">
         <input type="submit" value="一覧">
     </form>
-    <form action="insert.php" method="post">
+    <form action="insert-input.php" method="post">
         <input type="submit" value="登録">
     </form>
     <form action="update.php" method="post">

@@ -3,6 +3,8 @@
 <?php require 'header.php'; ?>
 <table>
     <h1>本一覧</h1>
+    <p>カテゴリID</p>
+<p>1：文学・文芸　2：ビジネス　3：趣味・実用　4：専門書　5：学習参考書　6：絵本・児童書　7：コミックス　8：雑誌・ムック</p>
     <a href="#" onclick="history.back()">メニューへ戻る</a>
     <tr><th></th><th></th><th>タイトル</th><th></th><th>著者</th><th></th><th>カテゴリID</th></tr>
     <?php
